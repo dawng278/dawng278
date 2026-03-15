@@ -1,4 +1,9 @@
 <h1 align="center">Hey 👋What's Up?</h1>
+<p align="center">I am a third-year Software Engineering student at Nguyen Tat Thanh University, dedicated to mastering the art of modern computing. </br>
+
+I'm growing up in Fullstack React Web Development, where I enjoy bridging the gap between intuitive user interfaces and robust server-side logic. </br>
+
+I am currently seeking opportunities to apply my technical skills in real-world projects and contribute to innovative software solutions.</p>
 
 ###
 
